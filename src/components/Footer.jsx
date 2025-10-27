@@ -41,7 +41,7 @@ const Footer = ({theme}) => {
 <div className='pb-6 text-sm text-gray-500 flex justify-center sm:justify-between gap-4 flex-wrap'>
  <p>
   Designed & Developed by <strong>Eslam Fadl</strong> © 2025 <br/>
-  <a href="mailto:eslam.fadl2338@gmail.com">eslam.fadl2338@gmail.com</a>
+  {/* <a href="mailto:eslam.fadl2338@gmail.com">eslam.fadl2338@gmail.com</a> */}
 </p>
   <div className='flex items-center justify-between gap-4'>
     <img src={assets.facebook_icon} alt="" />
